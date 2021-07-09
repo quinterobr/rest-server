@@ -1,3 +1,3 @@
 # WebSeber + RestServer
 
-Recuerde ejecutar ``npm install`` Para recounstruir los modulos de node
+Recuerde ejecutar ``npm install`` Para reconstruir los modulos de node
